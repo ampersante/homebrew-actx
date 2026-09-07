@@ -1,8 +1,8 @@
 class Actx < Formula
   desc "Personal CLI context-compressor for AI agents"
   homepage "https://github.com/ampersante/actx"
-  url "https://github.com/ampersante/actx/archive/refs/tags/v2.8.0.tar.gz"
-  sha256 "e54b88707cc9bc1a03d484d096c2dc78c34ec4f51e0ccb7d7c2165fc11da68b1"
+  url "https://github.com/ampersante/actx/archive/refs/tags/v2.9.0.tar.gz"
+  sha256 "07a9a2fd7aa984c7be9a54bbc59083a4e97a2fb983e926a07b17c9cc16aef9ee"
   license "MIT"
   depends_on "python@3.14"
 
